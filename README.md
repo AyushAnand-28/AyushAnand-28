@@ -14,7 +14,7 @@ Full-stack developer | Python • JavaScript • TypeScript | Building web apps,
 
 | Project | Description | Links |
 |---|---|---|
-| Wallify | Wallify is a modern web application that helps users discover and download high-quality wallpapers for their devices. Built with React and powered by the Unsplash API, Wallify offers a seamless experience for finding the perfect wallpaper. | [Live](wallify-rho.vercel.app Resources) / [GitHub](https://github.com/AyushAnand-28/Wallify) |
+| Wallify | Wallify is a modern web application that helps users discover and download high-quality wallpapers for their devices. Built with React and powered by the Unsplash API, Wallify offers a seamless experience for finding the perfect wallpaper. | [Live](wallify-rho.vercel.app) / [GitHub](https://github.com/AyushAnand-28/Wallify) |
 | AstroWorld | Astro World Two is an interactive astronomy site that lets you explore key concepts of the universe — from the Solar System and astronomical events to black holes and cosmic phenomena — with clear explanations and visuals designed to spark curiosity about space and science. | [Live](astro-world-two.vercel.app) / [GitHub](https://github.com/AyushAnand-28/AstroWorld) |
 
 ## 🎓 Education
