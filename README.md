@@ -53,7 +53,6 @@ Full-stack developer | Python • JavaScript • TypeScript | Building web apps,
 ![Visitor Count](https://komarev.com/ghpvc/?username=AyushAnand-28&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushAnand-28&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
 </div>
